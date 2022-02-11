@@ -3,7 +3,7 @@
 ### I am A Full-Stack Developer
 
 - **🏢 I am currently looking for a Full-Stack Developer position.**
-- **📫 Connect with me on LinkedIn - [Ofir Salem](https://www.linkedin.com/in/ofir-salem/).**
+- **👥 Connect with me on LinkedIn - [Ofir Salem](https://www.linkedin.com/in/ofir-salem/).**
 
 ---
 
